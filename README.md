@@ -1,6 +1,6 @@
 # Segmentation Reviewer - 3D Slicer Module
 
-A modular 3D Slicer Scripted Loadable Module for visual auditing, quality control, and comparison of medical image segmentations (Deep Learning predictions and Ground Truth masks) and automated error detections.
+A modular 3D Slicer Scripted Loadable Module for visual auditing, quality control, and comparison of medical image segmentations (Deep Learning predictions and Ground Truth masks) and manual error detections.
 
 > This extension was done because I needed to review tons of image-segmentation pairs. It was done at first with QTDesigner, modified the code by hand and scaled and refactored with generative AI, so some things might be a little flimsy. I revised all of the files and divided everything into their own atomic methods and scripts but some things are very out of my knowledge about 3D Slicer scripting and UI design.
 

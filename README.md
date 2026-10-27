@@ -1,4 +1,4 @@
-# Segmentation Reviewer - 3D Slicer Module
+# Segmentation Reviewer 3D Slicer Module
 
 A modular 3D Slicer Scripted Loadable Module for visual auditing, quality control, and comparison of medical image segmentations (Deep Learning predictions and Ground Truth masks) and manual error detections.
 
